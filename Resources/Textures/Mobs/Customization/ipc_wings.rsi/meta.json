@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "size": { "x": 64, "y": 34 },
+    "license": "CC-BY-SA-3.0",
+    "copyright": "by pont https://pont.cool. wings_dragon based on the V1 wings from tgstation (https://github.com/tgstation/tgstation/commit/e9cc620e9f908e18949031c6e1b5811e3fc5af4e)",
+    "states": [
+        {
+            "name": "ipc_wings_dragon_0",
+            "directions": 4
+        },
+        {
+            "name": "ipc_wings_dragon_1",
+            "directions": 4
+        }
+    ]
+}

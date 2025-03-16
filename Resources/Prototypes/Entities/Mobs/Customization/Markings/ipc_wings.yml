@@ -1,0 +1,10 @@
+- type: marking
+  id: IPCWingsDragon
+  bodyPart: Wings
+  markingCategory: Wings
+  speciesRestriction: [IPC]
+  sprites:
+    - sprite: Mobs/Customization/ipc_wings.rsi
+      state: ipc_wings_dragon_0
+    - sprite: Mobs/Customization/ipc_wings.rsi
+      state: ipc_wings_dragon_1
